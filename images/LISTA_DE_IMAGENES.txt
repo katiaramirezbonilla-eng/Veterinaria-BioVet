@@ -1,0 +1,55 @@
+Copia todos estos archivos dentro de la carpeta images/ de tu proyecto.
+También se siguen usando tus archivos: bg.jpg, img.jpg, overlay.png y pic01.jpg a pic09.jpg.
+
+servicio-consulta.svg  ->  Consulta general
+servicio-vacunacion.svg  ->  Vacunación
+servicio-cirugia.svg  ->  Cirugía y esterilización
+servicio-laboratorio.svg  ->  Laboratorio clínico
+servicio-rayosx.svg  ->  Rayos X y ecografía
+servicio-peluqueria.svg  ->  Peluquería y baño
+servicio-hospitalizacion.svg  ->  Hospitalización
+servicio-emergencias.svg  ->  Emergencias 24 horas
+servicio-dental.svg  ->  Odontología veterinaria
+servicio-hotel.svg  ->  Hotel y guardería
+servicio-adiestramiento.svg  ->  Adiestramiento
+servicio-domicilio.svg  ->  Consulta a domicilio
+prod-sueter.svg  ->  Suéter de lana
+prod-impermeable.svg  ->  Impermeable con capucha
+prod-camiseta.svg  ->  Camiseta de algodón
+prod-vestido.svg  ->  Vestido para perrita
+prod-botas.svg  ->  Botas protectoras (4 pzas)
+prod-bandana.svg  ->  Bandana estampada
+prod-bozal-malla.svg  ->  Bozal de malla ajustable
+prod-bozal-cuero.svg  ->  Bozal de cuero reforzado
+prod-bozal-silicon.svg  ->  Bozal de silicón flexible
+prod-collar.svg  ->  Collar acolchado
+prod-correa.svg  ->  Correa retráctil 5 m
+prod-arnes.svg  ->  Arnés antitirones
+prod-placa.svg  ->  Placa de identificación
+prod-collar-luz.svg  ->  Collar luminoso LED
+prod-cama.svg  ->  Cama ortopédica
+prod-comedero.svg  ->  Comedero antiderrame
+prod-bebedero.svg  ->  Bebedero automático
+prod-transportadora.svg  ->  Transportadora de viaje
+prod-casita.svg  ->  Casita para exterior
+prod-pelota.svg  ->  Pelota de goma
+prod-hueso-goma.svg  ->  Hueso de goma resistente
+prod-cuerda.svg  ->  Cuerda de algodón
+prod-frisbee.svg  ->  Frisbee flotante
+prod-peluche.svg  ->  Peluche con sonido
+prod-croquetas.svg  ->  Croquetas adulto 15 kg
+prod-cachorro.svg  ->  Alimento cachorro 10 kg
+prod-senior.svg  ->  Alimento senior 10 kg
+prod-snack.svg  ->  Snacks dentales
+prod-latas.svg  ->  Latas húmedas (pack 6)
+prod-shampoo.svg  ->  Shampoo medicado 500 ml
+prod-antipulgas.svg  ->  Antipulgas y garrapatas
+prod-cortaunas.svg  ->  Cortauñas profesional
+prod-cepillo.svg  ->  Cepillo de pelo
+prod-dental.svg  ->  Kit de cepillo dental
+prod-vitaminas.svg  ->  Multivitamínico masticable
+equipo-1.svg  ->  Dra. Ana Morales - Medicina general
+equipo-2.svg  ->  Dr. Carlos Reyes - Cirugía
+equipo-3.svg  ->  Dra. Lucía Fernández - Dermatología
+equipo-4.svg  ->  Dr. Mario Castillo - Emergencias
+fondo-patitas.svg  ->  Fondo de patitas de toda la página
